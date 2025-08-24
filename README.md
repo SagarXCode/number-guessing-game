@@ -5,7 +5,10 @@ A simple and interactive number guessing game written in Python. The program gen
 # 📌 Features
 
 - Random number generation within a specified range
-- Real-time user input and validation
-- Feedback on whether the guess is too high or too low
-- Option to play again after winning
-- Clean and beginner-friendly code
+- Difficulty levels:
+  - Easy (10 tries)
+  - Medium (7 tries)
+  - Hard (5 tries)
+- Feedback after each guess (too high / too low)
+- Game over screen and replay option
+- Error handling for invalid inputs

@@ -1,6 +1,6 @@
 # 🎯 Number Guess Game
 
-A simple and interactive number guessing game written in Python. The program generates a random number and challenges the user to guess it with helpful feedback after each attempt.
+A simple and interactive number guessing game written in Python. The game selects a random number between 1 and 100, and the player must guess it within a limited number of tries based on the chosen difficulty.
 
 # 📌 Features
 
